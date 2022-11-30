@@ -1,0 +1,136 @@
+* {
+    margin: 0px;
+    border: 0px;
+}
+.red {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin: 30px;
+}
+
+.green {
+    width: 200px;
+    height: 150px;
+    background-color: #00FF7F;
+    border: 10px black solid;
+    margin: 0 0 0 30px;
+}
+
+.blue {
+    width: 150px;
+    height: 200px;
+    margin: 40px 0 40px 0;
+    background-color: #00BFFF;
+    border-bottom: 20px dotted #DC143C;
+    padding: 20px;
+}
+
+.yellow {
+    background-color: #FF7F50;
+    width: 50%;
+    height: 100px;
+    border: 30px dashed white;
+}
+
+.block {
+    width: 160px;
+    height: 160px;
+    background-color: black;
+    margin: 30px 40px 40px 30px;
+    border: 20px solid #DC143C;
+    display: inline-block;
+}
+
+.block1 {
+    width: 120px;
+    height: 120px;
+    background-color: #00BFFF;
+    border: 20px solid #00FF7F;
+}
+
+.block2 {
+    width: 500px;
+    height: 400px;
+}
+
+.item1 {
+    width: 200px;
+    height: 200px;
+    border-top: 20px solid #DC143C;
+    border-right: 20px solid #00FF7F;
+    border-bottom: 20px solid #00BFFF;
+    border-left: 20px solid #FF7F50;
+    margin-left: 30px;
+    display: inline-block;
+}
+
+.item2 {
+    width: 200px;
+    height: 200px;
+    border-top: 20px solid #00FF7F;
+    border-right: 20px solid #DC143C;
+    border-bottom: 20px solid #FF7F50;
+    border-left: 20px solid #00BFFF;
+    margin-left: 150px;
+    margin-top: -130px;
+}
+
+.block3 {
+    width: 300px;
+    height: 300px;
+}
+
+.item3 {
+    width: 160px;
+    height: 160px;
+    margin: 60px;
+    border-top: 20px solid #DC143C;
+    border-right: 20px solid #00FF7F;
+    border-bottom: 20px solid #00BFFF;
+    border-left: 20px solid #FF7F50;
+    display: inline-block;
+    box-sizing: ;
+}
+
+.item4 {
+    width: 120px;
+    height: 120px;
+    border-top: 20px solid #FF7F50;
+    border-right: 20px solid #DC143C;
+    border-bottom: 20px solid #00FF7F;
+    border-left: 20px solid #00BFFF;
+}
+
+.item5 {
+    width: 80px;
+    height: 80px;
+    border-top: 20px solid #00BFFF;
+    border-right: 20px solid #FF7F50;
+    border-bottom: 20px solid #DC143C;
+    border-left: 20px solid #00FF7F;
+}
+
+.item6 {
+    width: 40px;
+    height: 40px;
+    border-top: 20px solid #00FF7F;
+    border-right: 20px solid #00BFFF;
+    border-bottom: 20px solid #FF7F50;
+    border-left: 20px solid #DC143C;
+}
+
+.item7 {
+    width: 0px;
+    height: 0px;
+    border-top: 20px solid #DC143C;
+    border-right: 20px solid #00FF7F;
+    border-bottom: 20px solid #00BFFF;
+    border-left: 20px solid #FF7F50;
+}
+
+
+#00BFFF; blue
+#FF7F50; or
+#DC143C; red
+#00FF7F; green
